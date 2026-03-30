@@ -1,26 +1,26 @@
 # Hi, I'm Brandon
 
-💻 Passionate Developer | 🔐 Security Systems Builder | 🤖 AI & Automation Enthusiast  
+ Passionate Developer |  Security Systems Builder |  AI & Automation Enthusiast  
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Currently working on:
+## About Me
+-  Currently working on:
   - Security Management Systems
   - Smart Surveillance Systems
   - Voice-Based PC Assistant
-- 🌱 Learning:
+-  Learning:
   - Advanced Python
   - AI Integration
   - System Automation
-- 🎯 Goal:
+-  Goal:
   - Build intelligent, secure, and automated systems
 
 ---
 
 ## Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 - Python 
 - Java 
 - JavaScript 
@@ -65,13 +65,13 @@
 
 ---
 
-## 🌐 Connect With Me
-- 💬 Open to collaboration on:
+## Connect With Me
+-  Open to collaboration on:
   - Security systems
   - AI tools
   - Automation projects
 
 ---
 
-## ⚡ Fun Fact
-> I build systems that think, watch, and respond 🔥
+##  Fun Fact
+> I build systems that think, watch, and respond 
