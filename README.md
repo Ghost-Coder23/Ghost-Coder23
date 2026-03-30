@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ghost-Coder23
+# Hi, I'm Brandon
 
 💻 Passionate Developer | 🔐 Security Systems Builder | 🤖 AI & Automation Enthusiast  
 
@@ -18,14 +18,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Programming Languages
-- Python 🐍
-- Java ☕
-- JavaScript ⚡
+- Python 
+- Java 
+- JavaScript 
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 - Tkinter (GUI Development)
 - SQLite (Database)
 - OpenCV (Computer Vision)
@@ -34,20 +34,16 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔐 Security Management System
+###  Security Management System
 - Role-based access control
 - Incident tracking
 - Real-time monitoring simulation
 - Automated alerts system
 
-### 📚 Library Access & Asset Management System
-- Digital sign-in/sign-out system
-- Admin dashboard with analytics
-- Time tracking & reporting
 
-### 🎥 Smart Surveillance System
+### Smart Surveillance System
 - Live camera feed
 - Motion detection
 - Recording & playback
