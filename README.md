@@ -22,13 +22,13 @@
 
 ###  Programming Languages
 - Python 
-- Java 
 - JavaScript 
 
 ### Tools & Technologies
 - Tkinter (GUI Development)
 - SQLite (Database)
 - OpenCV (Computer Vision)
+- LangChain
 - Git & GitHub
 - Linux (Kali)
 
